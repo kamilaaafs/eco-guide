@@ -1,0 +1,43 @@
+{
+  "eco_guide": {
+
+    "eco_tips": [
+
+      {
+        "judul": "Reduce Plastic Use",
+        "isi": "Use reusable bags, reusable bottles, and avoid single-use plastic."
+      },
+
+      {
+        "judul": "Save Electricity",
+        "isi": "Turn off lights, unplug chargers, and use natural sunlight when possible."
+      },
+
+      {
+        "judul": "Save Water",
+        "isi": "Take shorter showers and turn off taps when not in use."
+      }
+
+    ],
+
+    "greenwashing": [
+
+      {
+        "judul": "What is Greenwashing?",
+        "isi": "Greenwashing is when a company claims to be environmentally friendly without taking real environmental action."
+      },
+
+      {
+        "judul": "Common Example",
+        "isi": "Products may use words like eco, natural, or green without proof."
+      },
+
+      {
+        "judul": "How to Avoid It",
+        "isi": "Check certifications, company reports, and evidence behind environmental claims."
+      }
+
+    ]
+
+  }
+}
